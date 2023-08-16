@@ -1,7 +1,36 @@
 {
-  "name": "turbo-nitro",
-  "description": "Customizable WhatsApp Bot",
-  "repository": "https://github.com/TURBO-NITRO1/TURBITO-BOT-V5",
-  "logo": "https://i.postimg.cc/CM8RVzDK/tb-logo.png",
-  "keywords": ["bot", "whatsapp", "whatsapp-bot", "rpg", "turbo-bot-md", "turbo-bot"]
+  "name": "DROID-8-MD",
+  "website": "http://tiktok.com/@coin.exe1",
+  "description": "Super Bot WhatsApp",
+  "repository": "https://chat.whatsapp.com/HCJozD71O1VBtW68E5hu4L",
+  "logo": "https://i.imgur.com/AmzlKVi.jpeg",
+  "success_url": "",
+  "keywords": [
+    "nodejs",
+    "heroku",
+    "bot",
+    "bots",
+    "bot",
+    "spanish",
+    "whatsapp",
+    "termux",
+    "shadow",
+    "multi-device",
+    "md",
+    "whatsappbot",
+    "oficial",
+    "whatsapp-md",
+  "image": "heroku/nodejs",
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/bogini/heroku-buildpack-graphicsmagick"
+    }    
+ ]
 }
+
